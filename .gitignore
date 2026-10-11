@@ -1,0 +1,15 @@
+# Xmake cache
+.xmake/
+build/
+
+# MacOS Cache
+.DS_Store
+
+# Vim project view
+tmp
+# vim swap file
+**/*.swp
+# clangd
+.cache/
+compile_commands.json
+
